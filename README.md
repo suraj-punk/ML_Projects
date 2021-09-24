@@ -1,1 +1,1 @@
-# ML_Projects
+Repository for ML projects
